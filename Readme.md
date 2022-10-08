@@ -8,20 +8,20 @@
 ### Open the "main.hpp"
 
 > Complete overloading functions
-
 ### Goal of this lab
-
-- Move all elements N spaces to the left. The most left element will move to the last element.
-  > N: user input (one integer value)
+- num: user input (one integer value)
+- Insert the value “num” to the sorted array with keeping sorted order. Do not use any method or library functions to make sorted order. Find the insert position and enter the value.
+> 
+- num: user input (one integer value)
+- Delete the value “num” to the sorted array with keeping the sorted order. Do not use any method or library functions to make sorted order. Find the value in the array and delete the value. The other elements after deleted element should be moved 1 space to the left.
 
 ### Input and Output
-
-- Input: N
-- Output: Print all elements in the array after shifting left N
-
-### 👓 Watch this video(Programming code included)
-
-> [Processing Array Contents Lab 7-5. (3 mins)](https://youtu.be/lyrttIL31L8)
+- Input: num
+- Output: Print all elements in the array after inserting the value num
+- Input: num
+- Output: Print all elements in the array after deleting the value num
+### 👓 Watch: 
+- Processing Array Contents Lab 7-6. (4 mins)
 
 ## You can test your program by typing the command
 
