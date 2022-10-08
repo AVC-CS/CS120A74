@@ -7,7 +7,7 @@
 
 ### Open the "main.hpp"
 
-> Complete overloading functions
+> Complete  functions
 ### Goal of this lab
 - num: user input (one integer value)
 - Insert the value “num” to the sorted array with keeping sorted order. Do not use any method or library functions to make sorted order. Find the insert position and enter the value.
