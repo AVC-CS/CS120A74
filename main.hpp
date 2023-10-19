@@ -8,10 +8,10 @@ void insertone(int[], int &, int);
 void deleteone(int[], int &, int);
 void printout(int[], int);
 
-void insertone(int number[], int &length, int usernum)
+void insertone(int number[], int &N, int usernum)
 {
 }
-void deleteone(int number[], int &length, int usernum)
+void deleteone(int number[], int &N, int usernum)
 {
 }
 
